@@ -9,6 +9,7 @@ const Navbar: React.FC = () => {
     { name: "Home", path: "/" },
     { name: "Products", path: "/products" },
     { name: "About", path: "/about" },
+    { name: "Contact", path: "/contact" },
   ];
 
   return (
@@ -21,7 +22,7 @@ const Navbar: React.FC = () => {
               <ShoppingBag className="text-white" size={24} />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-              ShopHub
+              MiniMart
             </span>
           </Link>
 
