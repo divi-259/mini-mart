@@ -19,7 +19,7 @@ const Home: React.FC = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
             <div className="text-center text-white">
               <h1 className="text-5xl md:text-7xl font-bold mb-6 drop-shadow-lg">
-                Welcome to ShopHub
+                Welcome to MiniMart
               </h1>
               <p className="text-xl md:text-3xl mb-12 text-cyan-50 max-w-3xl mx-auto drop-shadow-md">
                 Your beachside shop for everything you need. Fresh products

@@ -21,7 +21,7 @@ const About: React.FC = () => {
         <div className="relative h-full flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white drop-shadow-lg">
-              About ShopHub
+              About MiniMart
             </h1>
             <p className="text-xl text-cyan-100 max-w-3xl drop-shadow-md">
               Your trusted beachside partner since 2020
@@ -50,7 +50,7 @@ const About: React.FC = () => {
           <h2 className="text-3xl font-bold text-gray-800 mb-6">Our Story</h2>
           <div className="prose prose-lg max-w-none text-gray-600">
             <p className="mb-4">
-              ShopHub was founded with a simple mission: to make beachside
+              MiniMart was founded with a simple mission: to make beachside
               shopping accessible, affordable, and enjoyable for everyone. What
               started as a small beach stand has grown into a thriving shop
               serving thousands of happy beachgoers and locals.
@@ -140,7 +140,7 @@ const About: React.FC = () => {
 
           <div className="relative z-10">
             <h2 className="text-3xl font-bold mb-12 text-center">
-              ShopHub by the Numbers
+              MiniMart by the Numbers
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
               <div>
@@ -377,7 +377,7 @@ const About: React.FC = () => {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="bg-white rounded-2xl shadow-xl p-12 text-center border-2 border-cyan-200">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
-            Join the ShopHub Family
+            Join the MiniMart Family
           </h2>
           <p className="text-xl text-gray-600 mb-8">
             Experience the difference that quality and care make

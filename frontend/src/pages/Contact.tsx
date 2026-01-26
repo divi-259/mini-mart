@@ -111,8 +111,8 @@ const Contact: React.FC = () => {
                     <h3 className="font-semibold text-gray-800 text-lg mb-1">
                       Email
                     </h3>
-                    <p className="text-gray-600">support@shophub.com</p>
-                    <p className="text-gray-600">info@shophub.com</p>
+                    <p className="text-gray-600">support@minimart.com</p>
+                    <p className="text-gray-600">info@minimart.com</p>
                   </div>
                 </div>
               </div>
@@ -287,7 +287,7 @@ const Contact: React.FC = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="ShopHub Location"
+              title="MiniMart Location"
             />
           </div>
         </div>
